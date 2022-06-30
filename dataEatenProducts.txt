@@ -1,0 +1,5 @@
+{"tuinfoeatenproduct":{"date":"29.06.2022","uinfoeatenproduct":{"userid":777076192,"infoeatenproduct":{"product":"1 apple","calories":94}}}}
+{"tuinfoeatenproduct":{"date":"29.06.2022","uinfoeatenproduct":{"userid":777076192,"infoeatenproduct":{"product":"2 apple","calories":189}}}}
+{"tuinfoeatenproduct":{"date":"30.06.2022","uinfoeatenproduct":{"userid":777076192,"infoeatenproduct":{"product":"150g rice","calories":540}}}}
+{"tuinfoeatenproduct":{"date":"30.06.2022","uinfoeatenproduct":{"userid":777076192,"infoeatenproduct":{"product":"100g vegetables salad","calories":72}}}}
+{"tuinfoeatenproduct":{"date":"30.06.2022","uinfoeatenproduct":{"userid":777076192,"infoeatenproduct":{"product":"Cola","calories":55}}}}

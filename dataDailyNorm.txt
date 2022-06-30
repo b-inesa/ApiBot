@@ -1,0 +1,2 @@
+{"infosetnorm":{"_date":"29.06.2022","_userid":777076192,"_normcalories":677}}
+{"infosetnorm":{"_date":"30.06.2022","_userid":777076192,"_normcalories":1500}}
